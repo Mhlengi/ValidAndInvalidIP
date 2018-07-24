@@ -7,7 +7,7 @@
 
 ## Installation
 - Clone the git repo - `git clone https://github.com/Mhlengi/ValidAndInvalidIP.git`
-- Go inside the project `ValidAndInvalidIP`
+- Navigate to the project directory `ValidAndInvalidIP`
 - Create virtual environment: `virtualenv -p python3 venv`
 - Activate your virtual environment: `. venv/bin/activate`
 - Install all the python dependencies `pip install -r requirements.txt`
