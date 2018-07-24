@@ -39,7 +39,7 @@ a.a.a.a
 2001:db8:0:1:1:1:1:1
 ```
 - If everything is running as excepted, your program should be able to generate 2 file.
-- One with Valid IP addresses and other one with Invalid IP addresses.
+- One file with Valid IP addresses and other one with Invalid IP addresses.
 - Valid output IPs file, the results should be as follows,
 ```validIPs.txt```
 ```
