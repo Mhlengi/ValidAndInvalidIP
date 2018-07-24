@@ -8,6 +8,8 @@
 ## Installation
 - Clone the git repo - `git clone https://github.com/Mhlengi/ValidAndInvalidIP.git`
 - Navigate to the project directory `ValidAndInvalidIP`
+- Install python3 `brew install python3`
+- Install pip3 `pip3 install virtualenv`
 - Create virtual environment: `virtualenv -p python3 venv`
 - Activate your virtual environment: `. venv/bin/activate`
 - Install all the python dependencies `pip install -r requirements.txt`
