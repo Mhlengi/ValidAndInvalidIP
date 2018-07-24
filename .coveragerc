@@ -1,0 +1,6 @@
+[run]
+branch=true
+source=.
+omit=
+    venv/*
+    tests.py
