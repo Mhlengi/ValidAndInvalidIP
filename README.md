@@ -7,13 +7,13 @@
 
 ## Installation
 - Clone the git repo - `git clone https://github.com/Mhlengi/ValidAndInvalidIP.git`.
-- Go inside the project('ValidAndInvalidIP')
-- Create virtual environment: `virtualenv -p python3 venv`
-- Activate your virtual environment: `. venv/bin/activate`
-- Install all the python dependencies `pip install -r requirements.txt`
+- Go inside the project `ValidAndInvalidIP`.
+- Create virtual environment: `virtualenv -p python3 venv`.
+- Activate your virtual environment: `. venv/bin/activate`.
+- Install all the python dependencies `pip install -r requirements.txt`.
 
 ## Usage
-- Run program by execute command `python challenge.py ips.txt` where `ips.txt` is your input file
+- Run program by execute command `python challenge.py ips.txt` where `ips.txt` is your input file.
 - Example: suppose one is given an input file as follows.
 ```ips.txt```
 ```
