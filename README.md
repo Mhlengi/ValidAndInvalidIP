@@ -73,5 +73,3 @@ a.a.a.a :-> 'a.a.a.a' does not appear to be an IPv4 or IPv6 address
 
 ## Run Tests
 - Run tests by execute command `py.test --cov=. tests.py;`
-
-```
